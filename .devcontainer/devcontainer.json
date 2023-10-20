@@ -30,11 +30,11 @@
 				"ms-vscode-remote.remote-wsl",
 				"dbaeumer.vscode-eslint",
 				"mhutchie.git-graph",
-				"GitHub.copilot",
 				"ms-vscode.vscode-typescript-next",
 				"firsttris.vscode-jest-runner",
 				"esbenp.prettier-vscode",
-				"natqe.reload"
+				"natqe.reload",
+				"VisualStudioExptTeam.vscodeintellicode"
 			]
 		}
 	}
